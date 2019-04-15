@@ -1,0 +1,6 @@
+## Equal Opportunity Statement, Affirmative Action, and American Disability Act
+
+No person shall, on the basis of age, race, religion, color, gender, sexual orientation, gender identity, national origin or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity of Eastern Washington University.
+Eastern Washington University adheres to affirmative action policies to promote diversity and equal opportunity for all faculty and students.
+
+Eastern Washington University is committed to providing support for students with disabilities. If you are a student with physical, learning, emotional, or psychological disabilities needing an accommodation, you are encouraged to stop by Disability Support Services (DSS), TAW 124 and speak with Kevin Hills, the Manager DSS or call 509-359-6871. If you have a documented need for accommodations please see me a minimum of 4 class days in advance of the due date so we can make the necessary arrangements.
