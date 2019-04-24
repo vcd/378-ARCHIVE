@@ -10,7 +10,7 @@ Chatroom for quickly sharing links, group communication, and conversation log at
 [CodePen's Master Professor pen](https://codepen.io/manikoth/pen/qrGMjL)
 
 ## Textbook
-[LearnJavaScript.Online]9https://learnjavascript.online/)
+[LearnJavaScript.Online](https://learnjavascript.online/)
 
 ## Additional Reference
 
