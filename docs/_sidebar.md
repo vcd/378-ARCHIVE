@@ -15,8 +15,8 @@
 * [Staging vs. Production](/process/readme.md)
 
 **SVG**
-* [Overview](/docs/google-doodle.md)
-* [CSS Animation](/projects/google-doodle-components.md)
+* [Overview](/projects/README.md)
+* [CSS Animation](/projects/components.md)
 
 **jQuery**
 * [Overview](/jquery/README.md)
