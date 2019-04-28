@@ -1,25 +1,41 @@
 **DESN 378**
-* [Home](/)
-* [Syllabus](/syllabus/readme.md)
-* [Chatroom](https://spectrum.chat/web-design-2)
-* [Master Prof. Pen](https://codepen.io/manikoth/pen/qrGMjL)
+* [Home][1]
+* [Syllabus][2]
+* [Chatroom][3]
+* [Master Prof. Pen][4]
 
 **Tools**
-* [Overview](/tools/README.md)
-* [VS Code with Plugins](/tools/README.md)
-* [Chrome Dev Tools](/tools/README.md)
+* [Overview][5]
+* [VS Code with Plugins][6]
+* [Chrome Dev Tools][7]
 
 **Process**
-* [Frameworks](/process/readme.md)
-* [Version Control](/process/readme.md)
-* [Staging vs. Production](/process/readme.md)
+* [Frameworks][8]
+* [Version Control][9]
+* [Staging vs. Production][10]
 
 **SVG**
-* [Overview](/projects/README.md)
-* [CSS Animation](/projects/components.md)
+* [Overview][11]
+* []()
+* [CSS Animation][13]
 
 **jQuery**
-* [Overview](/jquery/README.md)
+* [Overview][14]
 
 **JavaScript**
-* [Overview](/javascript/README.md)
+* [Overview][15]
+
+[1]:	/
+[2]:	/syllabus/readme.md
+[3]:	https://spectrum.chat/web-design-2
+[4]:	https://codepen.io/manikoth/pen/qrGMjL
+[5]:	/tooling/README.md
+[6]:	/tooling/README.md
+[7]:	/tooling/README.md
+[8]:	/process/readme.md
+[9]:	/process/readme.md
+[10]:	/process/readme.md
+[11]:	/svg/README.md
+[13]:	/projects/components.md
+[14]:	/jquery/README.md
+[15]:	/javascript/README.md
