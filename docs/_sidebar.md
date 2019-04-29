@@ -3,6 +3,7 @@
 * [Syllabus][2]
 * [Chatroom][3]
 * [Master Prof. Pen][4]
+<!-- * [Midterm](/midterm/README.md)  -->
 
 **Tools**
 * [Overview][5]
@@ -13,17 +14,18 @@
 * [Frameworks][8]
 * [Version Control][9]
 * [Staging vs. Production][10]
+* [ :open_file_folder: Web 2 Framework]()
 
 **SVG**
-* [Overview][11]
-* []()
+* [Overview][12]
 * [CSS Animation][13]
+* [ :open_file_folder: Google Doodle][14]
 
 **jQuery**
-* [Overview][14]
+* [Overview][15]
 
 **JavaScript**
-* [Overview][15]
+* [Overview][16]
 
 [1]:	/
 [2]:	/syllabus/readme.md
@@ -35,7 +37,8 @@
 [8]:	/process/readme.md
 [9]:	/process/readme.md
 [10]:	/process/readme.md
-[11]:	/svg/README.md
+[12]:	/svg/README.md
 [13]:	/projects/components.md
-[14]:	/jquery/README.md
-[15]:	/javascript/README.md
+[14]:	/svg/google-doodle.md
+[15]:	/jquery/README.md
+[16]:	/javascript/README.md

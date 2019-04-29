@@ -108,3 +108,8 @@ $('h1').lettering();
     * REF: https://cssreference.io/property/transform/
 * Color svg to `aquamarine`
     * REF: https://css-tricks.com/almanac/properties/f/fill/
+
+
+<!-- ## CSS Transitions
+## JavaScript -->
+
