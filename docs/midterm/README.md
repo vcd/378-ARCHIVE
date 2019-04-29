@@ -109,6 +109,10 @@ $('h1').lettering();
 * Color svg to `aquamarine`
     * REF: https://css-tricks.com/almanac/properties/f/fill/
 
+## 6. Q&A
+
+* [Complete the following Midterm Survey](https://airtable.com/shrVnyFGfsfrRq2jc) at https://airtable.com/shrVnyFGfsfrRq2jc
+
 
 <!-- ## CSS Transitions
 ## JavaScript -->

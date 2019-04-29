@@ -3,7 +3,7 @@
 * [Syllabus][2]
 * [Chatroom][3]
 * [Master Prof. Pen][4]
-<!-- * [Midterm](/midterm/README.md)  -->
+* [Midterm](/midterm/README.md) 
 
 **Tools**
 * [Overview][5]
