@@ -1,8 +1,15 @@
-# _Atomic Design_ Components
+# Google Doodle Components
 
 > [Collection of all Google Doodle CodePen pens][1]
 
-# The Setup
+## Overview
+* Apply _Atomic Design_ process to this project
+* Understand how the example work, then apply to your project.
+* Answers: What can I do with SVG, CSS Animation, and JS Events? 
+
+## Resources
+* [Animista](http://animista.net/)
+* [Animate CSS](https://daneden.github.io/animate.css/)
 
 ## Setting the Stage
 Blank Google Doodle template. A "stage" for the animations. 
@@ -61,7 +68,6 @@ CSS `transition` properties can be applied to any property with a numerical valu
 Most 2D transforms can be applied to SVG elements. 
 
 * Use `transform` property, `translate` functions to move elements around stage
-* REF: TreeHouse CSS Transforms
 * Pen: [CSS Transforms on SVGs][13]
 
 ## Animate with Keyframe Animation 
