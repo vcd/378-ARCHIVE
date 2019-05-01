@@ -17,9 +17,9 @@
 * [ :open_file_folder: Web 2 Framework]()
 
 **SVG**
-* [Overview][12]
-* [CSS Animation][13]
-* [ :open_file_folder: Google Doodle][14]
+* [Overview](/svg/README.md)
+* [ Google Doodle][/projects/google-doodle.md]
+* [ :open_file_folder: Google Doodle][/projects/google-doodle-components.md]
 
 **jQuery**
 * [Overview][15]
