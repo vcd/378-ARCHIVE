@@ -18,17 +18,18 @@
 
 **SVG**
 * [Overview](/svg/README.md)
-* [ Google Doodle][/projects/google-doodle.md]
-* [ :open_file_folder: Google Doodle][/projects/google-doodle-components.md]
+* [ Google Doodle](/projects/google-doodle.md)
+* [ :open_file_folder: Google Doodle](/projects/google-doodle-components.md)
 
 **jQuery**
 * [Overview][15]
+* [ :open_file_folder: Movie Trailer](projects/movie-trailer.md)
 
 **JavaScript**
 * [Overview][16]
 
 [1]:	/
-[2]:	/syllabus/readme.md
+[2]:	/syllabus/README.md
 [3]:	https://spectrum.chat/web-design-2
 [4]:	https://codepen.io/manikoth/pen/qrGMjL
 [5]:	/tooling/README.md
