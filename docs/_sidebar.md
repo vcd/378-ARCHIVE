@@ -23,6 +23,7 @@
 
 **jQuery**
 * [Overview][15]
+* [jQuery Plugins](/jquery/jquery-plugins.md)
 * [ :open_file_folder: Movie Trailer](projects/movie-trailer.md)
 
 **JavaScript**
