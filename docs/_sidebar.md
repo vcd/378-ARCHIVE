@@ -29,6 +29,9 @@
 **JavaScript**
 * [Overview][16]
 
+**Final**
+* [User.GitHub.io Final](/projects/final.md)
+
 [1]:	/
 [2]:	/syllabus/README.md
 [3]:	https://spectrum.chat/web-design-2
