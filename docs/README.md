@@ -3,11 +3,8 @@
 ## Homepage
 Recursive link to [Course Homepage at https://vcd.github.io/378/](https://vcd.github.io/378/)  
 
-## Chatroom
-Chatroom for quickly sharing links, group communication, and conversation log at [https://spectrum.chat/web-design-2](https://spectrum.chat/web-design-2).
-
 ## Professor Pen
-[CodePen's Master Professor pen](https://codepen.io/manikoth/pen/qrGMjL)
+[CodePen's Master Professor pen](https://codepen.io/manikoth/professor/WNbLEpy)
 
 ## Textbook
 [LearnJavaScript.Online](https://learnjavascript.online/)
